@@ -1,8 +1,6 @@
 # SysOS
 Sistema de Controle de Ordens de Serviço
 
-
-
 ### Frameworks/Bibliotecas
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 * [twbs/bootstrap](https://github.com/twbs/bootstrap) 
