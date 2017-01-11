@@ -1,6 +1,6 @@
-# MapOs 
+# SysOS
 Sistema de Controle de Ordens de Serviço
-### [https://www.sistemamapos.esy.es](https://www.sistemamapos.esy.es)
+
 
 
 ### Frameworks/Bibliotecas
@@ -13,5 +13,4 @@ Sistema de Controle de Ordens de Serviço
 * PHP >= 5.4.0
 * MySQL
 
-### Créditos
-* Ramon Silva - silva018-mg@yahoo.com.br
+
